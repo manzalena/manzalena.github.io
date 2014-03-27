@@ -1,0 +1,26 @@
+---
+layout: installation-post
+title:  "Use/Less"
+date:   2014-03-26 19:44:03
+category: installation
+---
+<div class="page-content inset">
+<div class="row">
+	<div class="row">
+            <div class="col-md-9">
+                <p class="lead">USE/LESS was inspired the concern that we make things that break down into other things. It was built in collaboration with <a href="http://notandrewkaye.net">Andrew Kaye</a> and displayed in the Chicago Loop for the duration of SAIC's "Ways of Saying" exhibition in 2013.</p>
+            </div>
+        </div>
+
+    <div class="col-md-12">
+		<img class="img-responsive-pad" src="/imgs/use1.jpg">
+	</div>
+	<div class="col-md-12">
+		<img class="img-responsive-pad" src="/imgs/use2.jpg">
+	</div>
+	<div class="col-md-12">
+		<img class="img-responsive-pad" src="/imgs/use3.jpg">
+	</div>
+
+</div>
+</div>
