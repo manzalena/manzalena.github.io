@@ -12,20 +12,18 @@ category: page and screen
             </div>
         </div>
     <div class="col-md-12">
-		<img class="img-responsive-pad" src="/imgs/dolla1.jpg">
+		<img class="img-responsive-pad" src="/imgs/olab1.jpg">
 	</div>
 	<div class="col-md-12">
-		<img class="img-responsive-pad" src="/imgs/dolla2.jpg">
+		<img class="img-responsive-pad" src="/imgs/olqb2.jpg">
 	</div>
 	<div class="col-md-12">
-		<img class="img-responsive-pad" src="/imgs/dolla3.jpg">
+		<img class="img-responsive-pad" src="/imgs/olab3.jpg">
 	</div>
 	  <div class="col-md-12">
-		<img class="img-responsive-pad" src="/imgs/dolla4.jpg">
+		<img class="img-responsive-pad" src="/imgs/olab4.jpg">
 	</div>
-	<div class="col-md-12">
-		<img class="img-responsive-pad" src="/imgs/dolla5.jpg">
-	</div>
+
 
 </div>
 </div>
