@@ -8,7 +8,7 @@ category: installation
 <div class="row">
 	<div class="row">
             <div class="col-md-9">
-                <p class="lead">I painted in Chicago's Block 37 building for <i>Re/View</i>, the special exhibition of the 2013 <a href="http://chidm.com/">Chicago Design Museum</a>. The design is motivated by the observation that our senses are not unbiased data collectors. The senses are inventive and pliable; they fill in gaps and invent content that is not always <i>there</i>.</p>
+                <p class="lead">I designed and painted this mural in Chicago's Block 37 building for <i>Re/View</i>, the special exhibition of the 2013 <a href="http://chidm.com/">Chicago Design Museum</a>. The design is motivated by the observation that our senses are not unbiased data collectors. The senses are inventive and pliable; they fill in gaps and invent content that is not always <i>there</i>.</p>
             </div>
         </div>
     <div class="col-md-12">
