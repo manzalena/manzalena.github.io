@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+{% include header.html %}
+    <body>
+      <div id="wrapper">
+{% include subsection_sidebar.html %}
+        <!-- Page content -->
+        <div id="page-content-wrapper">
+            <div class="content-header">
+            <h1><a id="menu-toggle" href="#" class="btn btn-default">
+                <i class="icon-reorder"></i></a>{{ page.title }}</h1>
+            </div>
+     
+
+       <!-- Keep all page content within the page-content inset div! -->
+            <div class="page-content inset">
+                   <div class="row">
+            <div class="col-md-9">
+                <p class="lead">{{content}}</p>
+            </div>
+            </div>
+                <div class="row">
+                <div class="col-md-12">
+                <img class="img-responsive-pad" src="/imgs/dolla0.jpg">    
+                </div> 
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- JavaScript -->
+    <script src="/js/jquery-1.10.2.js"></script>
+    <script src="/js/bootstrap.js"></script>
+
+    <!-- Custom JavaScript for the Menu Toggle -->
+    <script>
+    $("#menu-toggle").click(function(e) {
+        e.preventDefault();
+        $("#wrapper").toggleClass("active");
+    });
+    </script>
+
+    </body>
+</html>
