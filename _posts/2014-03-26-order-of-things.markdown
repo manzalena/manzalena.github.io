@@ -13,21 +13,33 @@ category: page and screen
             </div>
         </div>
     <div class="col-md-12">
-		<img class="img-responsive-pad" src="/imgs/order1.png">
+		<img class="img-responsive-pad" src="/imgs/order-of-things0.jpg">
 	</div>
-	    <div class="col-md-12">
-		<img class="img-responsive-pad" src="/imgs/order2.png">
+	<div class="col-md-12">
+		<img class="img-responsive-pad" src="/imgs/order-of-things2.jpg">
 	</div>
-	    <div class="col-md-12">
-		<img class="img-responsive-pad" src="/imgs/order3.png">
+	<div class="col-md-12">
+		<img class="img-responsive-pad" src="/imgs/order-of-things3.jpg">
 	</div>
-	    <div class="col-md-12">
-		<img class="img-responsive-pad" src="/imgs/order4.png">
+	<div class="col-md-12">
+		<img class="img-responsive-pad" src="/imgs/order-of-things4.jpg">
 	</div>
-	   <div class="col-md-12">
-		<img class="img-responsive-pad" src="/imgs/order5.png">
+	<div class="col-md-12">
+		<img class="img-responsive-pad" src="/imgs/order-of-things5.jpg">
 	</div>
-
+	<div class="col-md-12">
+		<img class="img-responsive-pad" src="/imgs/order-of-things-detail2.jpg">
+	</div>
+	<div class="col-md-12">
+		<img class="img-responsive-pad" src="/imgs/order-of-things7.jpg">
+	</div>
+	<div class="col-md-12">
+		<img class="img-responsive-pad" src="/imgs/order-of-things8.jpg">
+	</div>
+	<div class="col-md-12">
+		<img class="img-responsive-pad" src="/imgs/order-of-things9.jpg">
+	</div>
+	    
 
 </div>
 </div>

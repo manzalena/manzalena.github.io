@@ -15,13 +15,13 @@ category: page and screen
 		<img class="img-responsive-pad" src="/imgs/olab1.jpg">
 	</div>
 	<div class="col-md-12">
-		<img class="img-responsive-pad" src="/imgs/olqb2.jpg">
+		<img class="img-responsive-pad" src="/imgs/olab2.jpg">
 	</div>
 	<div class="col-md-12">
 		<img class="img-responsive-pad" src="/imgs/olab3.jpg">
 	</div>
 	  <div class="col-md-12">
-		<img class="img-responsive-pad" src="/imgs/olab4.jpg">
+		<img class="img-responsive-pad" src="/imgs/olab_fnews5.jpg">
 	</div>
 
 

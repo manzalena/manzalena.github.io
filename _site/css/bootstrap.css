@@ -61,8 +61,13 @@ dfn {
   font-style: italic;
 }
 h1 {
-  margin: .67em 0;
+  margin: .87em 0;
   font-size: 2em;
+
+}
+h1:hover{
+
+
 }
 mark {
   color: #000;
