@@ -8,7 +8,7 @@ category: page and screen
 <div class="row">
 	<div class="row">
             <div class="col-md-9">
-                <p class="lead">Plant!Chicago is a grassroots non-profit that oversees educational programs and community involvement for The Plant, which is housed in a giant warehouse in Chicago's Back of the Yards neighborhood. The goal of the PlantChicago is to build and promote sustainable closed-loop environmental systems for urban environments.</p>
+                <p class="lead">Plant!Chicago is a grassroots non-profit that oversees educational programs and community involvement for The Plant, which is housed in a giant warehouse in Chicago's Back of the Yards neighborhood. The goal of Plant!Chicago is to build and promote sustainable closed-loop systems in its community.</p>
             </div>
         </div>
     <div class="col-md-12">
