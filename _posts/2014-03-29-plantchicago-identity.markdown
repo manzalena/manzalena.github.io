@@ -2,7 +2,7 @@
 layout: pagescreen-post
 title:  "PlantChicago"
 date:   2014-03-29 19:46:03
-category: page and screen
+category: pagescreen
 ---
 <div class="page-content inset">
 <div class="row">

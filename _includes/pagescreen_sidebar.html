@@ -16,7 +16,7 @@
                 <a href="{{ page.url }}"><h4 class="small">{{ page.title }}</h4></a>
                 </li>
                   {% endif %}
-            {% if page.section == "page and screen" %}
+            {% if page.section == "pagescreen" %}
              <li class="sidebar-nav-this">
                 <a href="{{ page.url }}"><h4 class="small">{{ page.title }}</h4></a>
                 </li>
@@ -25,13 +25,10 @@
             <li class="sidebar-brand"></li>
                 <li class="sidebar-nav-this"><h4>Projects</h4></li>   
             {% for post in site.posts %}
-            {% if post.categories contains "page and screen" %}
+            {% if post.categories contains "pagescreen" %}
                   <li><a href="{{post.url}}"><h4 class="small">{{post.title}}</h4></a> 
             {% endif %} 
             {% endfor %}
-
-                <li><a href="http://manzalena.github.io"><h4 class="small">show all</h4></a>
-                </li>
 
             </ul>
         </div>

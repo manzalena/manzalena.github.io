@@ -2,7 +2,7 @@
 layout: pagescreen-post
 title:  "Order of Things"
 date:   2014-03-26 19:50:03
-category: page and screen
+category: pagescreen
 
 ---
 <div class="page-content inset">

@@ -2,7 +2,7 @@
 layout: pagescreen-post
 title:  "Fnewsmagazine"
 date:   2014-03-26 19:44:03
-category: page and screen
+category: pagescreen
 ---
 <div class="page-content inset">
 <div class="row">
