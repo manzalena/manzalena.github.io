@@ -1,0 +1,18 @@
+---
+layout: pagescreen-post
+title:  "Run Lola Run"
+date:   2014-03-23 20:49:03
+category: pagescreen
+---
+<div class="page-content inset">
+<div class="row">
+	<div class="row">
+            <div class="col-md-9">
+                <p class="lead">This infographic visualizes the German films spiraling 3-part dash to an uncertain finish.</p>
+            </div>
+        </div>
+    <div class="col-md-12">
+		<img class="img-responsive-pad" src="/imgs/lola1.jpg"></div>
+	
+</div>
+</div>

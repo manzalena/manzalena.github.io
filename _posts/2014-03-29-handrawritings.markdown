@@ -8,7 +8,7 @@ category: neologisms
 <div class="row">
 	<div class="row">
             <div class="col-md-9">
-                <p class="lead">Illustrations for a growing index of invented words.</p>
+                <p class="lead">Illustrations for a growing index of invented language.</p>
             </div>
         </div>
     <div class="col-md-12">
