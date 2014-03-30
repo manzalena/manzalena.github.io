@@ -1,12 +1,12 @@
   #wrapper {
-  padding-left: 250px;
+  padding-left: 200px;
   transition: all 0.4s ease 0s;
 }
 
 #sidebar-wrapper {
-  margin-left: -250px;
-  left: 250px;
-  width: 250px;
+  margin-left: -200px;
+  left: 200px;
+  width: 200px;
   background: #ACBABF;
   position: fixed;
   height: 100%;
@@ -22,7 +22,7 @@
 .sidebar-nav {
   position: absolute;
   top: 0;
-  width: 250px;
+  width: 200px;
   list-style: none;
   margin: 0;
   padding: 0;
@@ -41,27 +41,30 @@
 }
 .sidebar-nav-this li {
 color: #fff;
-
+ height: 105px;
+  line-height: 105px;
+  font-size: 24px;
   text-decoration: none;
 }
 
 .sidebar-nav li a:hover {
- color: #000000;
+ color: #ff00c3;
   
   text-decoration: none;
 }
 
 .sidebar-nav li a:active,
 .sidebar-nav li a:focus {
-   color: #000000;
+   color: #ffffff;
    background:#000000;
+   line-height:45px;
 
 }
 
 .sidebar-nav > .sidebar-brand {
-  height: 65px;
-  line-height: 60px;
-  font-size: 18px;
+  height: 50px;
+  line-height: 65px;
+  font-size: 14px;
 }
 
 .sidebar-nav > .sidebar-brand a {
@@ -69,23 +72,30 @@ color: #fff;
 }
 
 .sidebar-nav > .sidebar-brand a:hover {
-  color: #fff;
+  color: #000000;
   background: none;
 }
 
 .content-header {
   height: 65px;
   line-height: 65px;
+  
 
 }
 
 .content-header h1 {
   margin: 0;
   margin-left: 20px;
-  line-height: 65px;
+  line-height: auto;
   display: inline-block;
+  font-weight: 100;
+
 }
 
+.content-header h1:hover {
+  color:#ff00c3;
+  
+}
 #menu-toggle {
   display: none;
 }
@@ -123,5 +133,11 @@ color: #fff;
   padding: 15px;
 }
 
+.sidebar-menu{
+  font-size:0%;
+   font-weight:100;
+
+ 
+}
 
 }
