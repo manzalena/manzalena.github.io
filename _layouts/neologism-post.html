@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+{% include header.html %}
+    <body>
+      <div id="wrapper">
+
+<!-- Sidebar -->
+{% include nelogisms_sidebar.html %}
+        <!-- Page content -->
+        <div id="page-content-wrapper">
+            <div class="content-header">
+              <h1><a id="menu-toggle" href="#" class="btn btn-default">
+                <i class="fa fa-align-justify fa-lg"></i></a>{{ page.title }}</h1>
+            </div>
+       <!-- Keep all page content within the page-content inset div! -->
+            <div class="page-content inset">
+                   {{content}}
+        </div>
+        </div>
+    </div>
+    <!-- JavaScript -->
+    <script src="/js/jquery-1.10.2.js"></script>
+    <script src="/js/bootstrap.js"></script>
+
+    <!-- Custom JavaScript for the Menu Toggle -->
+    <script>
+    $("#menu-toggle").click(function(e) {
+        e.preventDefault();
+        $("#wrapper").toggleClass("active");
+    });
+    </script>
+
+    </body>
+</html>

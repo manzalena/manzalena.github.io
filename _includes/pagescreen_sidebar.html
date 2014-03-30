@@ -22,6 +22,11 @@
                 <a href="{{ page.url }}"><h4 class="small" style="color:#ACBABF;background:#000000;">{{ page.title }}</h4></a>
                 </li>
                 {% endif %}
+                {% if page.section == "neologisms" %}
+             <li class="sidebar-nav-this">
+            <a href=""><h4 class="small">{{ page.title }}</h4></a>
+                </li>
+                {% endif %}
             {% endfor %}
             <li class="sidebar-brand"></li>
                 <li class="sidebar-brand"><a href=""><i class="fa fa-th text-left" style="display:inline;"></i></a></li>  
