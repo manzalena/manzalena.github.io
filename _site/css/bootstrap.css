@@ -2063,7 +2063,6 @@ fieldset[disabled] .btn {
 .btn-default {
   color: #666;
   background-color: #fff;
-  border-color: #ccc;
   margin-right:20px;
 }
 .btn-default:hover,
@@ -2073,7 +2072,6 @@ fieldset[disabled] .btn {
 .open .dropdown-toggle.btn-default {
   color: #333;
   background-color: #ebebeb;
-  border-color: #adadad;
 }
 .btn-default:active,
 .btn-default.active,
