@@ -5,7 +5,6 @@ date:   2014-03-26 19:46:03
 permalink: /printcapitalism/
 categories: print 
 ---
-<div class="page-content inset">
 <div class="row">
 	<div class="row">
             <div class="col-md-9">
@@ -28,5 +27,4 @@ categories: print
 		<img class="img-responsive-pad" src="/imgs/dolla5.jpg">
 	</div>
 
-</div>
 </div>
