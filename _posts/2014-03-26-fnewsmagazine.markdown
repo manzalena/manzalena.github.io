@@ -1,7 +1,8 @@
 ---
-layout: pagescreen-post
+layout: default
 title:  "Fnewsmagazine"
 date:   2014-03-26 19:44:03
+permalink: /f-news/
 category: pagescreen
 ---
 <div class="page-content inset">

@@ -1,7 +1,8 @@
 ---
-layout: neologisms-post
-title:  "Pricing Typestracts"
+layout: default
+title:  "Neologisms"
 date:   2014-03-31 20:49:03
+permalink: /neologism/
 category: neologisms
 ---
 <div class="page-content inset">

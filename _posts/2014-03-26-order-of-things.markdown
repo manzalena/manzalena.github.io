@@ -1,7 +1,8 @@
 ---
-layout: pagescreen-post
+layout: default
 title:  "Order of Things"
 date:   2014-03-26 19:50:03
+permalink: /order/
 category: pagescreen
 
 ---

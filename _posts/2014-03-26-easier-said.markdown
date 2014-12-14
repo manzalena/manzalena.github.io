@@ -1,7 +1,8 @@
 ---
-layout: installation-post
+layout: default
 title:  "Easier Said"
 date:   2014-03-26 19:47:03
+permalink: /easier-said/
 category: installation
 ---
 <div class="page-content inset">

@@ -1,7 +1,8 @@
 ---
-layout: pagescreen-post
+layout: default
 title:  "OpenLab Identity"
 date:   2014-03-26 19:46:03
+permalink: /open-lab/
 category: pagescreen
 ---
 <div class="page-content inset">

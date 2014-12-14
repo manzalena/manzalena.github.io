@@ -1,7 +1,8 @@
 ---
-layout: installation-post
+layout: default
 title:  "Believing Too"
 date:   2014-03-27 19:49:03
+permalink: /seeing-feeling/
 category: installation
 ---
 <div class="page-content inset">

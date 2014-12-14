@@ -1,7 +1,8 @@
 ---
-layout: pagescreen-post
+layout: default
 title:  "Run Lola Run"
 date:   2014-03-23 20:49:03
+permalink: /lola-runs/
 category: pagescreen
 ---
 <div class="page-content inset">

@@ -1,7 +1,8 @@
 ---
-layout: neologisms-post
+layout: default
 title:  "More Than A Place"
 date:   2014-03-30 20:49:03
+permalink: /more-place/
 category: neologisms
 ---
 <div class="page-content inset">

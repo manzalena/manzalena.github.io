@@ -1,7 +1,8 @@
 ---
-layout: installation-post
+layout: default
 title:  "Until/Reality"
 date:   2014-03-26 19:48:03
+permalink: /until/
 category: installation
 ---
 <div class="page-content inset">

@@ -1,7 +1,8 @@
 ---
-layout: installation-post
+layout: default
 title:  "Glow Outside"
 date:   2014-03-29 19:44:03
+permalink: /glow-outside/
 category: installation
 ---
 <div class="page-content inset">

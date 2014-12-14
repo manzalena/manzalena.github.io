@@ -1,8 +1,10 @@
 ---
-layout: neologisms-post
+layout: default
 title:  "Handrawritings"
 date:   2014-03-29 20:49:03
+permalink: /handrawritings/
 category: neologisms
+published: false
 ---
 <div class="page-content inset">
 <div class="row">

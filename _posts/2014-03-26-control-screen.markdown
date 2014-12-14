@@ -1,7 +1,8 @@
 ---
-layout: installation-post
+layout: default
 title:  "Control Screen"
 date:   2014-03-26 19:49:03
+permalink: /control-screen/
 category: installation
 ---
 <div class="page-content inset">

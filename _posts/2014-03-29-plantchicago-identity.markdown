@@ -1,7 +1,8 @@
 ---
-layout: pagescreen-post
+layout: default
 title:  "PlantChicago"
 date:   2014-03-29 19:46:03
+permalink: /plant-chicago/
 category: pagescreen
 ---
 <div class="page-content inset">
