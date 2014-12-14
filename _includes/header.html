@@ -10,10 +10,11 @@
     <title>{{page.title}}</title>
 
     <!-- Bootstrap Core CSS -->
-    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="{{ "/css/bootstrap.min.css" | prepend: site.baseurl }}" >
 
     <!-- Custom CSS -->
-    <link href="css/logo-nav.css" rel="stylesheet">
+    <link rel="stylesheet" href="{{ "/css/logo-nav.css" | prepend: site.baseurl }}">
+     <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
 
     <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
 
