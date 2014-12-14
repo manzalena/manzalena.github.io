@@ -1,6 +1,11 @@
-name: Magdalena Wistuba
-markdown: redcarpet
-pygments: true
+# Site settings
+title: magdalena wistuba
+email: magda.wistuba@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  Chicago-based design, web design, design students, graphic design.
 
-include: ['_pages']
-relative_permalinks: false
+twitter_username: magplease
+github_username:  manzalena
+
+# Build settings
+markdown: kramdown

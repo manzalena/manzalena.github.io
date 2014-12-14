@@ -1,8 +1,9 @@
 ---
-layout: pagescreen-post
+layout: default
 title:  "Print Capitalism"
 date:   2014-03-26 19:46:03
-category: pagescreen
+permalink: /printcapitalism/
+categories: print 
 ---
 <div class="page-content inset">
 <div class="row">

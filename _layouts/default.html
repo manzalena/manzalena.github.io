@@ -2,33 +2,25 @@
 <html>
 {% include header.html %}
     <body>
-      <div id="wrapper">
-{% include home_sidebar.html %}
-        <!-- Page content -->
-        <div id="page-content-wrapper">
-            <div class="content-header">
-            <a id="menu-toggle" href="#">
-                <i class="fa fa-align-justify fa-lg"></i></a><h1>{{ page.title }}</h1>
-            </div>
-     
+{% include nav.html %}
 
-       <!-- Keep all page content within the page-content inset div! -->
-            <div class="page-content inset">
-                   <div class="row">
-            {{content}}
+    <!-- Page Content -->
+<div class="container-fluid">
+    <div class="row">
+        {% include post-list.html %}
+            <div class="col-lg-9 col-md-9 col-sm-9 col-xs-12">
+                {{ content }}
+            </div>
         </div>
     </div>
-    <!-- JavaScript -->
-    <script src="/js/jquery-1.10.2.js"></script>
-    <script src="/js/bootstrap.js"></script>
+    <!-- /.container -->
 
-    <!-- Custom JavaScript for the Menu Toggle -->
-    <script>
-    $("#menu-toggle").click(function(e) {
-        e.preventDefault();
-        $("#wrapper").toggleClass("active");
-    });
-    </script>
+    <!-- jQuery -->
+    <script src="./js/jquery.js"></script>
 
-    </body>
+    <!-- Bootstrap Core JavaScript -->
+    <script src="./js/bootstrap.min.js"></script>
+
+</body>
+
 </html>
