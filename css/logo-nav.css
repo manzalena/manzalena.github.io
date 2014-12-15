@@ -7,18 +7,18 @@
 body {
     padding-top: 70px; /* Required padding for .navbar-fixed-top. Change if height of navigation changes. */
 }
-.postl-list, ul {
+.post-list, ul {
 	list-style-type: none;
 	padding-left:15px;
 	line-height:1.75em;
 }
 
-.postl-list, li a{
+.post-list, li a{
 	color:#000;
 	text-decoration: none;
 }
 
-.postl-list, li a:hover{
+.post-list, li a:hover{
 	color:#B8F6EF;
 	text-decoration: none;
 }
@@ -58,3 +58,8 @@ body {
     }
 }
 
+.img-responsive-pad{
+	width:100%;
+	height: auto;
+
+}
