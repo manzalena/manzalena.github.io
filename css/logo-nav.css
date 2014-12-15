@@ -13,12 +13,12 @@ body {
 	line-height:1.75em;
 }
 
-.post-list, li a{
+ li a{
 	color:#000;
 	text-decoration: none;
 }
 
-.post-list, li a:hover{
+li a:hover{
 	color:#B8F6EF;
 	text-decoration: none;
 }
