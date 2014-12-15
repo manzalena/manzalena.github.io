@@ -5,7 +5,6 @@ date:   2014-03-30 20:49:03
 permalink: /more-place/
 category: neologisms
 ---
-<div class="page-content inset">
 <div class="row">
 	<div class="row">
             <div class="col-md-9">
@@ -32,5 +31,4 @@ category: neologisms
 		<img class="img-responsive-cen" src="/imgs/handrawriting_21.jpg"></div>
 
 
-</div>
 </div>
